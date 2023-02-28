@@ -133,6 +133,16 @@ You can deploy this project using: N/A
 - Twitter: [@twitterhandle](https://twitter.com/abelteferabelay)
 - LinkedIn: [LinkedIn](https://linkedin.com/in/abel-tefera-b1b625153)
 
+ **Author2**
+ 
+👤 **Amarachi Dimkpa**
+
+- GitHub: [@amazinggacee](https://github.com/Amazinggracee)
+- Twitter: [@amazinggaceu](https://twitter.com/amazinggraceu)
+- LinkedIn: [Amarachi Dimkpa](https://linkedin.com/in/amarachi-dimkpa-070643183)
+
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🔭 Future Features <a name="future-features"></a>
